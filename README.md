@@ -1,10 +1,10 @@
 # Diversity_NominalCategorization
 
-This repository stores supplementary materials for the following paper at Humanities and Social Sciences Communications. These supplementary materials shows the code that was used for the main analyses included in the paper.
+This repository stores supplementary materials for the following paper at _Humanities and Social Sciences Communications_. These supplementary materials shows the code that was used for the main analyses included in the paper.
 
-Title: Expansion by migration and diffusion by contact is a source to the global diversity of linguistic nominal categorization systems
+**Title**: Expansion by migration and diffusion by contact is a source to the global diversity of linguistic nominal categorization systems
 
-Authors:
+**Authors**:
 
 - Marc Allassonnière-Tang*, marc.allassonniere-tang@mnhn.fr (CNRS, MNHN, Université de Paris, France)
 - Olof Lundgren, olof.lundgren@ling.lu.se (Lund University, Sweden)
