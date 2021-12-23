@@ -2,6 +2,8 @@
 
 This repository stores supplementary materials for the following paper at _Humanities and Social Sciences Communications_. These supplementary materials shows the code that was used for the main analyses included in the paper.
 
+Allassonnière-Tang, Marc, Olof Lundgren, Maja Robbers, Sandra Cronhamn, Filip Larsson, One-Soon Her, Harald Hammarström and Gerd Carling. 2021. Expansion by migration and diffusion by contact is a source to the global diversity of linguistic nominal categorization systems. Humanities & Social Sciences Communications, 8(331). https://doi.org/10.1057/s41599-021-01003-5
+
 **Title**: Expansion by migration and diffusion by contact is a source to the global diversity of linguistic nominal categorization systems
 
 **Authors**:
