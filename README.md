@@ -10,9 +10,7 @@ The content of the folders is summarized as follows:
 - data_tidy: The files used in the analysis
 - Supp2_Method.Rmd: The code used for the analysis. The PDF and HTML output are also attached.
 
-**Title**: Expansion by migration and diffusion by contact is a source to the global diversity of linguistic nominal categorization systems
-
-**Authors**:
+**Contact information**:
 
 - Marc Allassonnière-Tang*, marc.allassonniere-tang@mnhn.fr (CNRS, MNHN, Université de Paris, France)
 - Olof Lundgren, olof.lundgren@ling.lu.se (Lund University, Sweden)
